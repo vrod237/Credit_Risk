@@ -16,3 +16,7 @@
 - Software: Python, Jupyter Notebook
 
 ## Summary
+
+- [Credit Risk Ensemble](https://github.com/vrod237/Credit_Risk/blob/master/credit_risk_ensemble.ipynb)
+
+- [Credit Risk Resampling](https://github.com/vrod237/Credit_Risk/blob/master/credit_risk_resampling.ipynb)
